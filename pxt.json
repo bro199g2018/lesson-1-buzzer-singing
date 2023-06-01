@@ -5,12 +5,14 @@
         "core": "*",
         "radio": "*",
         "mbit": "github:lzty634158/yahboom_mbit_en#5f452181e18a6e9984bc9867363e77723355f406",
-        "microphone": "*"
+        "microphone": "*",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
